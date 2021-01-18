@@ -15,8 +15,14 @@
 https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/hero1.png
 ```
 
+### Overwatch logo
+
+```url
+https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/logo_overwatch.png
+```
+
 ### Background
 
 ```url
-
+https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/bg.jpg
 ```
