@@ -1,0 +1,25 @@
+{
+  "name": "overwatch-hero-selector-vanilla-origin",
+  "version": "1.0.0",
+  "description": "오버워치 영웅 선택 화면 예제!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla/issues"
+  },
+  "homepage": "https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.32.8"
+  }
+}
